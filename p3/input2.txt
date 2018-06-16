@@ -1,0 +1,15 @@
+new
+insert 6 1
+insert -6 1
+insert -11 1
+insert -18 1
+erase -6 1
+insert -2 1
+insert 17 1
+insert -9 1
+insert -12 1
+insert -8 1
+erase 6 1
+delete
+summary
+details
